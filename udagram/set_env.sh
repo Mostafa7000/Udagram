@@ -5,7 +5,7 @@ export POSTGRES_PASSWORD=abcdefg1234
 export POSTGRES_HOST=db1.cgu2szzbc0sz.us-east-1.rds.amazonaws.com
 export POSTGRES_DB=mainDB
 
-export AWS_BUCKET=arn:aws:s3:::myawsbucket-75139724085
+export AWS_BUCKET=arn:aws:s3:::mtsamys
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export AWS_ACCESS_KEY_ID=AKIA25NEQZTIB5NFHA22
